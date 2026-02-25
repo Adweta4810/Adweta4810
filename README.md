@@ -59,13 +59,17 @@
       <h3>🍳 Cook Mentor (Figma)</h3>
       <p><b>UI/UX</b> • Prototype • User-centered</p>
       <p>Recipe discovery prototype with ingredient search, cuisine filters, and dietary preferences.</p>
+      <br>
       <a href="https://www.figma.com/design/MHf0IvOfkw4wbMpSz8KKgD/Cook-mentor-app?node-id=0-1&t=HFZMtdJie0oO7UnO-1">🔗 Live / Figma</a>
+      <br><br>
     </td>
     <td width="50%" valign="top">
       <h3>🐢 OOP Turtle Graphics (Java)</h3>
       <p><b>Java</b> • OOP • Graphics</p>
       <p>Interactive Turtle Graphics app with shape creation/manipulation + save/reload states.</p>
+      <br>
       <a href="https://github.com/Adweta4810/OOP-Turtle-Graphics.git">🔗 GitHub Repo</a>
+      <br><br>
     </td>
   </tr>
 
@@ -74,13 +78,17 @@
       <h3>🌙 Portfolio Website</h3>
       <p><b>HTML</b> • <b>CSS</b> • Responsive</p>
       <p>Responsive portfolio website showcasing academic work and projects.</p>
+      <br>
       <a href="https://github.com/Adweta4810/Portfolio.git">🔗 GitHub Repo</a>
+      <br><br>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 BOOSE App (C#)</h3>
       <p><b>C#</b> • .NET • Interpreter • ASE</p>
       <p>BOOSE interpreter that runs commands/scripts to draw shapes. Includes <code>about</code> command + BOOSE.DLL/version info in output/debug.</p>
+      <br>
       <a href="https://github.com/Adweta4810/website-host-adweta-sigdel.git">🔗 GitHub Repo</a>
+      <br><br>
     </td>
   </tr>
 </table>
