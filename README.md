@@ -51,6 +51,64 @@
 
 ---
 
+## 🛠 GitHub Skills Journey
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📘 Introduction to GitHub</h3>
+      <p>Get started using GitHub in less than an hour.</p>
+      <a href="https://github.com/Adweta4810/skills-introduction-to-github">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📝 Communicate using Markdown</h3>
+      <p>Organize ideas and collaborate using Markdown, a lightweight language for text formatting.</p>
+      <a href="https://github.com/Adweta4810/skills-communicate-using-markdown">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 GitHub Pages</h3>
+      <p>Create a site or blog from your GitHub repositories with GitHub Pages.</p>
+      <a href="https://github.com/Adweta4810/skills-github-pages">🔗 View Repository</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔧 Introduction to Git</h3>
+      <p>Use Git version control to work on a game using command line (CLI) and VS Code.</p>
+      <a href="https://github.com/Adweta4810/skills-introduction-to-git">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔍 Review pull requests</h3>
+      <p>Collaborate and work together on GitHub.</p>
+      <a href="https://github.com/Adweta4810/skills-review-pull-requests">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Resolve merge conflicts</h3>
+      <p>Learn why conflicts happen and how to resolve them.</p>
+      <a href="https://github.com/Adweta4810/skills-resolve-merge-conflicts">🔗 View Repository</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 Code with Codespaces</h3>
+      <p>Develop code using GitHub Codespaces and Visual Studio Code.</p>
+      <a href="https://github.com/Adweta4810/skills-code-with-codespaces">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📂 Introduction to Repository Management</h3>
+      <p>Learn the basics of several features for a collaborative, friendly, and healthy project.</p>
+      <a href="https://github.com/Adweta4810/skills-introduction-to-repository-management">🔗 View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <br>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -59,15 +117,13 @@
       <h3>🍳 Cook Mentor (Figma)</h3>
       <p><b>UI/UX</b> • Prototype • User-centered</p>
       <p>Recipe discovery prototype with ingredient search, cuisine filters, and dietary preferences.</p>
-      <br>
       <a href="https://www.figma.com/design/MHf0IvOfkw4wbMpSz8KKgD/Cook-mentor-app?node-id=0-1&t=HFZMtdJie0oO7UnO-1">🔗 Live / Figma</a>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <h3>🐢 OOP Turtle Graphics (Java)</h3>
       <p><b>Java</b> • OOP • Graphics</p>
-      <p>Interactive Turtle Graphics app with shape creation/manipulation + save/reload states.</p>
-      <br>
+      <p>Interactive Turtle Graphics app with shape creation/manipulation and save/reload states.</p>
       <a href="https://github.com/Adweta4810/OOP-Turtle-Graphics.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
@@ -77,16 +133,14 @@
     <td width="50%" valign="top">
       <h3>🌙 Portfolio Website</h3>
       <p><b>HTML</b> • <b>CSS</b> • Responsive</p>
-      <p>Responsive portfolio website showcasing academic work and projects.</p>
-      <br>
+      <p>Responsive portfolio website showcasing academic work, skills, and projects.</p>
       <a href="https://github.com/Adweta4810/Portfolio.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 BOOSE App (C#)</h3>
       <p><b>C#</b> • .NET • Interpreter • ASE</p>
-      <p>BOOSE interpreter that runs commands/scripts to draw shapes. Includes <code>about</code> command + BOOSE.DLL/version info in output/debug.</p>
-      <br>
+      <p>BOOSE interpreter that runs commands/scripts to draw shapes. Includes <code>about</code> command and BOOSE.DLL/version info in debug output.</p>
       <a href="https://github.com/Adweta4810/website-host-adweta-sigdel.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
