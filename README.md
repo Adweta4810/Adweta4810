@@ -24,9 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adweta-sigdel-3527aa27b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:adwetasigdel2004@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/9779846696339)
-
-![](https://komarev.com/ghpvc/?username=Adweta4810&style=flat&color=40c463)
-
 </div>
 
 ---
