@@ -12,8 +12,9 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
 - 🎓 BSc (Hons) Computing (Level 5) student in Kathmandu  
-- 💻 Interested in Web Development, UI/UX, and Software Engineering  
-- 🤖 Exploring AI/ML and Data Analytics alongside coursework  
+- 💻 Interested in Web Development, UI/UX, Software Engineering, and Mobile App Development  
+- 🤖 Exploring AI/ML, Python, and Data Analytics alongside coursework  
+- 📱 Building Android apps using Kotlin and Jetpack Compose  
 - 🤝 Open to collaboration on beginner-friendly projects  
 - 📈 Focused on learning, consistency, and improving step-by-step  
 
@@ -24,6 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adweta-sigdel-3527aa27b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:adwetasigdel2004@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/9779846696339)
+
 </div>
 
 ---
@@ -35,8 +37,17 @@
 ![CSS](https://img.shields.io/badge/CSS3-1f222e?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f222e?logo=javascript&logoColor=white)
 
-### 👩‍💻 Programming
+### 📱 Mobile App Development
+![Kotlin](https://img.shields.io/badge/Kotlin-1f222e?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1f222e?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1f222e?logo=jetpackcompose&logoColor=white)
+
+### 🤖 Machine Learning & Data Analytics
 ![Python](https://img.shields.io/badge/Python-1f222e?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f222e?logo=scikitlearn&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1f222e?logo=googleanalytics&logoColor=white)
+
+### 👩‍💻 Programming
 ![Java](https://img.shields.io/badge/Java-1f222e?logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-1f222e?logo=csharp&logoColor=white)
 
@@ -72,7 +83,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🔧 Introduction to Git</h3>
-      <p>Use Git version control to work on a game using command line (CLI) and VS Code.</p>
+      <p>Use Git version control to work on a game using command line and VS Code.</p>
       <a href="https://github.com/Adweta4810/skills-introduction-to-git">🔗 View Repository</a>
     </td>
     <td width="33%" valign="top">
@@ -108,9 +119,15 @@
 
 ## 🚀 Featured Projects
 
-
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Quizzy Application</h3>
+      <p><b>Kotlin</b> • <b>Jetpack Compose</b> • MVVM • Room Database</p>
+      <p>Student quiz application with welcome, name, home, topic, quiz, result, review, quiz history, profile, and leaderboard screens.</p>
+      <a href="https://github.com/Adweta4810/Quizzy_Application.git">🔗 GitHub Repo</a>
+      <br><br>
+    </td>
     <td width="50%" valign="top">
       <h3>🩺 Explainable Disease Risk Prediction</h3>
       <p><b>Python</b> • <b>Machine Learning</b> • SHAP • LIME • Streamlit</p>
@@ -118,6 +135,9 @@
       <a href="https://github.com/Adweta4810/explainable-disease-risk-prediction.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🍳 Cook Mentor (Figma)</h3>
       <p><b>UI/UX</b> • Prototype • User-centered</p>
@@ -125,9 +145,6 @@
       <a href="https://www.figma.com/design/MHf0IvOfkw4wbMpSz8KKgD/Cook-mentor-app?node-id=0-1&t=HFZMtdJie0oO7UnO-1">🔗 Live / Figma</a>
       <br><br>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🐢 OOP Turtle Graphics (Java)</h3>
       <p><b>Java</b> • OOP • Graphics</p>
@@ -135,6 +152,9 @@
       <a href="https://github.com/Adweta4810/OOP-Turtle-Graphics.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🌙 Portfolio Website</h3>
       <p><b>HTML</b> • <b>CSS</b> • Responsive</p>
@@ -142,18 +162,12 @@
       <a href="https://github.com/Adweta4810/Portfolio.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🎨 BOOSE App (C#)</h3>
       <p><b>C#</b> • .NET • Interpreter • ASE</p>
       <p>BOOSE interpreter that runs commands/scripts to draw shapes. Includes <code>about</code> command and BOOSE.DLL/version info in debug output.</p>
       <a href="https://github.com/Adweta4810/website-host-adweta-sigdel.git">🔗 GitHub Repo</a>
       <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <br>
     </td>
   </tr>
 </table>
@@ -163,6 +177,7 @@
 <div align="center">
 
 ## 📈 Activity Graph
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adweta4810&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/Adweta4810)
 
 </div>
@@ -172,6 +187,7 @@
 <div align="center">
 
 ## 🏆 Trophies
+
 <img src="https://github-profile-trophy.vercel.app/?username=Adweta4810&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 
 </div>
