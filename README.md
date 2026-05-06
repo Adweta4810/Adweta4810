@@ -108,8 +108,16 @@
 
 ## 🚀 Featured Projects
 
+
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Explainable Disease Risk Prediction</h3>
+      <p><b>Python</b> • <b>Machine Learning</b> • SHAP • LIME • Streamlit</p>
+      <p>Final year project that predicts CKD and Diabetes risk using machine learning models and explains predictions using SHAP and LIME for better transparency.</p>
+      <a href="https://github.com/Adweta4810/explainable-disease-risk-prediction.git">🔗 GitHub Repo</a>
+      <br><br>
+    </td>
     <td width="50%" valign="top">
       <h3>🍳 Cook Mentor (Figma)</h3>
       <p><b>UI/UX</b> • Prototype • User-centered</p>
@@ -117,6 +125,9 @@
       <a href="https://www.figma.com/design/MHf0IvOfkw4wbMpSz8KKgD/Cook-mentor-app?node-id=0-1&t=HFZMtdJie0oO7UnO-1">🔗 Live / Figma</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🐢 OOP Turtle Graphics (Java)</h3>
       <p><b>Java</b> • OOP • Graphics</p>
@@ -124,9 +135,6 @@
       <a href="https://github.com/Adweta4810/OOP-Turtle-Graphics.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🌙 Portfolio Website</h3>
       <p><b>HTML</b> • <b>CSS</b> • Responsive</p>
@@ -134,6 +142,9 @@
       <a href="https://github.com/Adweta4810/Portfolio.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 BOOSE App (C#)</h3>
       <p><b>C#</b> • .NET • Interpreter • ASE</p>
@@ -141,20 +152,11 @@
       <a href="https://github.com/Adweta4810/website-host-adweta-sigdel.git">🔗 GitHub Repo</a>
       <br><br>
     </td>
+    <td width="50%" valign="top">
+      <br>
+    </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adweta4810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Adweta4810&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adweta4810&theme=dark&hide_border=false&layout=compact)
-
-</div>
 
 ---
 
